@@ -1,0 +1,1 @@
+"sesuai prinsip OOP yang benar." ingat bahwa protected termasuk materi oop
