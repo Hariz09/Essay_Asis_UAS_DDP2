@@ -1,0 +1,1 @@
+Junit 100% ada di soal no 2
